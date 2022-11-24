@@ -38,10 +38,10 @@ Instructions to modify the code to play the stream of your choice:
 STREAMS = [
   {
     "token": '1',
-    "url": 'https://www.radiokrishna.com/RKC-Terni-HQ.m3u',
+    "url": 'https://sonic.sistemahost.es/8116/stream',
     "metadata": {
-      "title": 'Dabble Radio',
-      "subtitle": 'A subtitle for dabble radio',
+      "title": 'Radio Queen Malaga',
+      "subtitle": 'Radio de IMVU',
       "art": {
         "sources": [
           {
