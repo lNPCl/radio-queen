@@ -18,6 +18,23 @@
           "description": "Radio Online",
           "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
           "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
+        },        
+        "es-ES": {
+          "summary": "Radio Queen Malaga",
+          "examplePhrases": [
+            "Alexa abre radio queen",
+            "Alexa start radio queen",
+            "Alexa launch radio queen"
+          ],
+          "keywords": [
+            "radio queen",
+            "radio queen malaga",
+            "queen malaga"
+          ],
+          "name": "Radio Queen - Radio de IMVU para amazon creado por lNPCl",
+          "description": "Radio Online",
+          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
         },
         "en-CA": {
           "summary": "Radio Queen Malaga",
