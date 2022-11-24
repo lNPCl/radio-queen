@@ -3,87 +3,87 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Sample Short Description",
+          "summary": "Radio Queen Malaga",
           "examplePhrases": [
-            "Alexa open template three",
-            "Alexa start template three",
-            "Alexa launch template three"
+            "Alexa abre radio queen",
+            "Alexa start radio queen",
+            "Alexa launch radio queen"
           ],
           "keywords": [
-            "keyword1",
-            "keyword2",
-            "keyword3"
+            "radio queen",
+            "radio queen malaga",
+            "queen malaga"
           ],
-          "name": "Template Three - Radio Streaming Skill Example",
-          "description": "Sample Full Description",
+          "name": "Radio Queen - Radio de IMVU para amazon creado por lNPCl",
+          "description": "Radio Online",
           "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
           "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
         },
         "en-CA": {
-          "summary": "Sample Short Description",
+          "summary": "Radio Queen Malaga",
           "examplePhrases": [
-            "Alexa open template three",
-            "Alexa start template three",
-            "Alexa launch template three"
+            "Alexa abre radio queen",
+            "Alexa start radio queen",
+            "Alexa launch radio queen"
           ],
           "keywords": [
-            "keyword1",
-            "keyword2",
-            "keyword3"
+            "radio queen",
+            "radio queen malaga",
+            "queen malaga"
           ],
-          "name": "Template Three - Radio Streaming Skill Example",
-          "description": "Sample Full Description",
+          "name": "Radio Queen - Radio de IMVU para amazon creado por lNPCl",
+          "description": "Radio Online",
           "smallIconUri": "file://assets/images/en-CA_smallIconUri.png",
           "largeIconUri": "file://assets/images/en-CA_largeIconUri.png"
         },
         "en-IN": {
-          "summary": "Sample Short Description",
+          "summary": "Radio Queen Malaga",
           "examplePhrases": [
-            "Alexa open template three",
-            "Alexa start template three",
-            "Alexa launch template three"
+            "Alexa abre radio queen",
+            "Alexa start radio queen",
+            "Alexa launch radio queen"
           ],
           "keywords": [
-            "keyword1",
-            "keyword2",
-            "keyword3"
+            "radio queen",
+            "radio queen malaga",
+            "queen malaga"
           ],
-          "name": "Template Three - Radio Streaming Skill Example",
-          "description": "Sample Full Description",
+          "name": "Radio Queen - Radio de IMVU para amazon creado por lNPCl",
+          "description": "Radio Online",
           "smallIconUri": "file://assets/images/en-IN_smallIconUri.png",
           "largeIconUri": "file://assets/images/en-IN_largeIconUri.png"
         },
         "en-AU": {
-          "summary": "Sample Short Description",
+          "summary": "Radio Queen Malaga",
           "examplePhrases": [
-            "Alexa open template three",
-            "Alexa start template three",
-            "Alexa launch template three"
+            "Alexa abre radio queen",
+            "Alexa start radio queen",
+            "Alexa launch radio queen"
           ],
           "keywords": [
-            "keyword1",
-            "keyword2",
-            "keyword3"
+            "radio queen",
+            "radio queen malaga",
+            "queen malaga"
           ],
-          "name": "Template Three - Radio Streaming Skill Example",
-          "description": "Sample Full Description",
+          "name": "Radio Queen - Radio de IMVU para amazon creado por lNPCl",
+          "description": "Radio Online",
           "smallIconUri": "file://assets/images/en-AU_smallIconUri.png",
           "largeIconUri": "file://assets/images/en-AU_largeIconUri.png"
         },
         "en-GB": {
-          "summary": "Sample Short Description",
+          "summary": "Radio Queen Malaga",
           "examplePhrases": [
-            "Alexa open template three",
-            "Alexa start template three",
-            "Alexa launch template three"
+            "Alexa abre radio queen",
+            "Alexa start radio queen",
+            "Alexa launch radio queen"
           ],
           "keywords": [
-            "keyword1",
-            "keyword2",
-            "keyword3"
+            "radio queen",
+            "radio queen malaga",
+            "queen malaga"
           ],
-          "name": "Template Three - Radio Streaming Skill Example",
-          "description": "Sample Full Description",
+          "name": "Radio Queen - Radio de IMVU para amazon creado por lNPCl",
+          "description": "Radio Online",
           "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
           "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
         }
