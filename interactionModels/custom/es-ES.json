@@ -1,9 +1,7 @@
 {
     "SKILL_NAME": "Plantilla de radio online",
     "ABOUT": [
-        "Esta es una habilidad de transmisión de audio que se creó con una plantilla gratuita de dabblelab.com. Para continuar escuchando, diga: reanudar, o diga: detener para dejar de escuchar.
-
-"
+        "Esta es una habilidad de transmisión de audio que se creó con una plantilla gratuita de dabblelab.com. Para continuar escuchando, diga: reanudar, o diga: detener para dejar de escuchar"
     ],
     "ABOUT_REPROMPT":[
         "Para continuar escuchando, diga: reanudar, o diga: detener para dejar de escuchar."
